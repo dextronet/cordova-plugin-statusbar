@@ -1,0 +1,13 @@
+{
+  "name": "cordova-plugin-statusbar",
+  "version": "0.1.10",
+  "description": "Cordova Statusbar Plugin",
+  "cordova": {
+    "id": "cordova-plugin-statusbar",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": "github:dextronet/cordova-plugin-statusbar"
+}
